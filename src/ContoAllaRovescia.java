@@ -8,7 +8,7 @@ public class ContoAllaRovescia {
 
         Scanner scanner= new Scanner(System.in);
         System.out.print("Inserisci un numero intero: ");
-        
+
         int numero = scanner.nextInt();
 
         // Conto alla rovescia

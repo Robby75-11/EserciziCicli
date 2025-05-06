@@ -20,7 +20,7 @@ public class DividiStringa {
                         System.out.print(",");
                     }
                 }
-                System.out.println(); // Vai a capo dopo l'output
+                System.out.println(); 
             }
 
         } while (!input.equals(":q"));

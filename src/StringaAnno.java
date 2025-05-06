@@ -1,5 +1,7 @@
 public class StringaAnno {
+
     public static void main(String[] args) {
+
         // Esempio di utilizzo di stringaPariDispari
         String parola = "ciao";
         if (stringaPariDispari(parola)) {
